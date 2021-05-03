@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.1.1",
+  "description": "This is a test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartik123-beep/website-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartik123-beep/website-test/issues"
+  },
+  "homepage": "https://github.com/Kartik123-beep/website-test#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
